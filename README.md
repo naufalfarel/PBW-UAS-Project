@@ -24,9 +24,9 @@ GudApp adalah aplikasi web berbasis Laravel yang dirancang untuk membantu manaje
 
 - Manajemen **pengguna sistem (admin/operator)**
 - Autentikasi login
-- UI modern berbasis template AdminLTE
 - Pencarian dan filter data
 - Proteksi CSRF dan validasi form
+- Import Data dari Excel untuk mempercepat input data produk, kategori, pelanggan, dan lainnya.
 
 ---
 

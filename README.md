@@ -58,7 +58,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ### Halaman Dashboard
 
-![Dashboard](https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/blob/main/screenshots/dashboard.png)
+![Dashboard](https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/public/assets/img/Dashboard.png)
 
 ### Sidebar Navigasi
 
@@ -73,7 +73,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ---
 
-## 🔐 Autentikasi dan Keamanan
+## Autentikasi dan Keamanan
 
 - Sistem login untuk admin/operator.
 - Middleware Laravel digunakan untuk membatasi akses halaman.
@@ -81,7 +81,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ---
 
-## ⚙️ Cara Instalasi
+## Cara Instalasi
 
 1. **Install dependency**
 
@@ -110,7 +110,7 @@ php artisan serve
 
 ---
 
-## 👤 Admin Login (contoh)
+## Admin Login (contoh)
 
 | Email                                     | Password |
 | ----------------------------------------- | -------- |
@@ -118,7 +118,7 @@ php artisan serve
 
 ---
 
-## 📌 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - Laravel 10
 - MySQL

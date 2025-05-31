@@ -58,8 +58,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ### Halaman Dashboard
 
-![Dashboard](https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/public/assets/img
-/Dashboard.png)
+(https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/blob/main/public/assets/img/Dashboard.png)
 
 ### Sidebar Navigasi
 
@@ -82,7 +81,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ---
 
-## Cara Instalasi
+## ⚙️ Cara Instalasi
 
 1. **Install dependency**
 

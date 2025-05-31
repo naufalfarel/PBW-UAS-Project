@@ -46,10 +46,20 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ## 🧾 Alur Kerja Aplikasi
 
+- Admin
+
 1. Admin melakukan login ke sistem.
 2. Admin dapat mengakses dashboard utama dan melihat statistik.
 3. Admin mengelola data master: kategori, produk, customer, supplier.
 4. Admin mencatat transaksi barang masuk dan barang keluar.
+5. Seluruh data terekam dan tersimpan di database dengan validasi.
+
+- Staff
+
+1. Staff melakukan login ke sistem.
+2. Staff dapat mengakses dashboard utama dan melihat statistik.
+3. Staff mengelola data master: kategori, produk, customer, supplier.
+4. Staff mencatat transaksi barang masuk dan barang keluar.
 5. Seluruh data terekam dan tersimpan di database dengan validasi.
 
 ---

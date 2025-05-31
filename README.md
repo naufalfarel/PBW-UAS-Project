@@ -1,5 +1,5 @@
-Nama : Naufal Farrel Syafilan
-Npm : 2308107010058
+- Nama : Naufal Farrel Syafilan
+- Npm : 2308107010058
 
 ---
 
@@ -81,7 +81,7 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ---
 
-## ⚙️ Cara Instalasi
+## Cara Instalasi
 
 1. **Install dependency**
 

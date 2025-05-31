@@ -58,7 +58,8 @@ Struktur folder mengikuti standar Laravel, beberapa direktori penting:
 
 ### Halaman Dashboard
 
-![Dashboard](https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/public/assets/img/Dashboard.png)
+![Dashboard](https://github.com/naufalfarel/PBW-UAS-Project-Management-Pergudangan/public/assets/img
+/Dashboard.png)
 
 ### Sidebar Navigasi
 

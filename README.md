@@ -112,9 +112,9 @@ php artisan serve
 
 ## 👤 Admin Login (contoh)
 
-| Email                                       | Password |
-| ------------------------------------------- | -------- |
-| [admin@gmail.com](mailto:admin@gudapp.test) | admin123 |
+| Email                                     | Password |
+| ----------------------------------------- | -------- |
+| [admin@gmail.com](mailto:admin@gmail.com) | admin123 |
 
 ---
 
@@ -128,11 +128,3 @@ php artisan serve
 - Font Awesome
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini adalah open-source dan dapat digunakan untuk keperluan edukasi dan pengembangan.
-
----
-
-Kalau kamu ingin aku tambahkan gambar lain atau menyempurnakan bagian tertentu (misalnya nama developer, deskripsi lebih rinci per modul, atau menyesuaikan dengan tugas akhir), tinggal beri tahu ya!

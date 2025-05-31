@@ -26,7 +26,7 @@ GudApp adalah aplikasi web berbasis Laravel yang dirancang untuk membantu manaje
 - Autentikasi login
 - Pencarian dan filter data
 - Proteksi CSRF dan validasi form
-- Import Data dari Excel untuk mempercepat input data produk, kategori, pelanggan, dan lainnya.
+- Import dan export Data dari Excel untuk mempercepat input data
 
 ---
 
